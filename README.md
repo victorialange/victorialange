@@ -8,7 +8,6 @@ Outside of coding or skating, you would most likely find me at the gym 🤸‍�
 
 - 🔭 My current tech stack includes:
  | HTML5 | CSS3 | SASS | JavaScript | React | Firebase | RESTful APIs
-JavaScript React firebase 
 - 👯 I’m always looking to collaborate on React or Vanilla JS projects 🤗
 - 💬 Ask me about: career transitioning, coding & women in tech, ancient Roman and Greek history 📜, vegan cooking & baking 🌱, figure skating ⛸️, health & fitness 🥗🏋️‍♀️, countries in Europe 🇪🇺, exotic fruits from South America 🥭🌎... 
 - 📫 How to reach me: victoriaj.lange@gmail.com and/or https://www.linkedin.com/in/victoria-lange-064320244/ ...
