@@ -7,7 +7,7 @@ As a former competitive athlete and coach, now turned developer, I am someone wh
 Outside of coding or skating, you would most likely find me at the gym 🤸‍♀️ 🏃‍♀️ 🏋️‍♀️, in the kitchen 👩‍🍳 baking my delicious (but also healthy) plant-based maple polenta banana bread 🍌🍁🌱😋, learning another language (I speak five currently) 🤓 or dancing salsa 💃
 
 - 🔭 My current tech stack includes:
- HTML5 CSS3 SASS
+ | HTML5 | CSS3 | SASS | JavaScript | React | Firebase | RESTful APIs
 JavaScript React firebase 
 - 👯 I’m always looking to collaborate on React or Vanilla JS projects 🤗
 - 💬 Ask me about: career transitioning, coding & women in tech, ancient Roman and Greek history 📜, vegan cooking & baking 🌱, figure skating ⛸️, health & fitness 🥗🏋️‍♀️, countries in Europe 🇪🇺, exotic fruits from South America 🥭🌎... 
