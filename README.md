@@ -8,7 +8,7 @@ Outside of coding or skating, you would most likely find me at the gym 🤸‍�
 
 - 🔭 My current tech stack includes:
  | HTML5 | CSS3 | SASS | JavaScript | React | Firebase | RESTful APIs
- - I'm currently learning:
+- 📚 I'm currently learning:
  TypeScript | Flutter | Dart | Node/Express  
 - 👯 I’m always looking to collaborate on React or Vanilla JS projects 🤗
 - 💬 Ask me about: career transitioning, coding & women in tech, ancient Roman and Greek history 📜, vegan cooking & baking 🌱, figure skating ⛸️, health & fitness 🥗🏋️‍♀️, countries in Europe 🇪🇺, exotic fruits from South America 🥭🌎... 
