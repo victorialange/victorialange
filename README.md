@@ -1,6 +1,6 @@
 ### Hi there! I'm Victoria 👋
 
-A Front-End Developer passionate about building accessible and user-friendly web applications with responsive, clean and dry code. I am also a recent <a href="https://junocollege.com/" target="_blank">Juno College</a> cohort 45 web dev bootcamp grad. 
+A Front-End Developer passionate about building accessible and user-friendly web applications with responsive, clean and dry code.
 
 As a former competitive athlete and coach, now turned developer, I am someone who enjoys working together with other people, and thrive on finding solutions in a fast-paced and intensive team environment. From my 16 years of experience as a competitive figure skater and then coach ⛸️, I know what it takes to achieve success and be able to deliver satisfying results: Discipline, dedication, perseverance, attention to detail, but also teamwork as well as the continuous striving for improvement and growth! 👊
 
