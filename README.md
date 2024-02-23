@@ -7,10 +7,10 @@ As a former competitive athlete and coach, now turned developer, I am someone wh
 Outside of coding or skating, you would most likely find me at the gym 🤸‍♀️ 🏃‍♀️ 🏋️‍♀️, in the kitchen 👩‍🍳 baking my delicious (but also healthy) plant-based maple polenta banana bread 🍌🍁🌱😋, learning another language (I speak five currently) 🤓 or dancing salsa 💃
 
 - 🔭 My current tech stack includes:
-  HTML5 | CSS3 | SASS | JavaScript | Typescript | React | Next.js | Firebase | RESTful APIs | Prisma | PostgreSQL
+  HTML5 | CSS3 | SASS | JavaScript | Typescript | React | Next.js | Firebase | RESTful APIs | Prisma 
 - 📚 I'm currently learning:
-  Flutter | Dart | Node/Express  
-- 👯 I’m always looking to collaborate on React or Vanilla JS projects 🤗
+  Flutter | Dart | Node/Express | SQL | PostgreSQL  
+- 👯 I’m always looking to collaborate on Next.js, React or Vanilla JS projects 🤗
 - 💬 Ask me about: career transitioning, coding & women in tech, ancient Roman and Greek history 📜, vegan cooking & baking 🌱, figure skating ⛸️, health & fitness 🥗🏋️‍♀️, countries in Europe 🇪🇺, exotic fruits from South America 🥭🌎... 
 - 📫 How to reach me: victoriaj.lange@gmail.com and/or <a href="https://www.linkedin.com/in/victoria-lange-064320244/" target="_blank">LinkedIn</a> ...
 - ⚡😄  Fun fact: One of my favourite subjects in high school was Latin (studied it for five years)
